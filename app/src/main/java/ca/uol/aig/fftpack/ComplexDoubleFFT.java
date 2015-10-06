@@ -5,7 +5,7 @@ package ca.uol.aig.fftpack;
   * @author Astronomical Instrument Group of University of Lethbridge.
 */
 public class ComplexDoubleFFT extends ComplexDoubleFFT_Mixed
-{
+{//
 /**
   * <em>norm_factor</em> can be used to normalize this FFT transform. This is because
   * a call of forward transform (<em>ft</em>) followed by a call of backward transform
